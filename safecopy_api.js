@@ -1,7 +1,4 @@
-// HUSK NEW RELIC PREFIX
 
-
-//mysql setup and test data retrival
 
 
 let mysql = require('mysql')
